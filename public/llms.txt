@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://polyamer-il-9b765ab1.zappy5.app
+https://example.com
 גלו חומרי בנייה מתקדמים מבוססי בטון פולימרי מבית PolyAmer.il. פתרונות חזקים, רב-שימושיים וידידותיים לסביבה לפרויקטים תשתיתיים. היכנסו עוד היום להתרשם ממגוון המוצרים!
 
 ### מוצרים
-https://polyamer-il-9b765ab1.zappy5.app/products
+https://example.com/products
 חפשו חומרי בנייה זולים ואיכותיים? בקטלוג המוצרים שלנו תמצאו בטון פולימרי חזק במיוחד, חומרים ממוחזרים לבנייה ועוד. שדרגו את הפרויקט שלכם עם חומרים חכמים וחסכוניים!
 
 ### אודות
-https://polyamer-il-9b765ab1.zappy5.app/about
+https://example.com/about
 הכירו את PolyAmer.il – מובילים בתחום חומרי הבנייה ברי הקיימא. אנו מפתחים בטון פולימרי שמחבר בין עמידות יוצאת דופן לחדשנות סביבתית. הצטרפו למהפכת הבנייה הירוקה!
 
 ### צור קשר
-https://polyamer-il-9b765ab1.zappy5.app/contact
+https://example.com/contact
 צריכים חומרי בנייה זולים ליד הבית? דברו איתנו! צוות PolyAmer.il ישמח לייעץ לכם על בטון פולימרי, חומרים ממוחזרים ועוד. השאירו פרטים ונתחיל לתכנן יחד את הפרויקט המושלם!
 
 ### תודה רבה - פנייתך התקבלה | PolyAmer.il
-https://polyamer-il-9b765ab1.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך ל-PolyAmer.il. קיבלנו את הודעתך ונחזור אליך בהקדם האפשרי עם מידע על חומרי בניין ברי קיימא.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://polyamer-il-9b765ab1.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://polyamer-il-9b765ab1.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://polyamer-il-9b765ab1.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://polyamer-il-9b765ab1.zappy5.app/contact
-- Endpoint: https://polyamer-il-9b765ab1.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -79,6 +79,6 @@ Construction Materials
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://polyamer-il-9b765ab1.zappy5.app/sitemap.xml
-- Robots: https://polyamer-il-9b765ab1.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://polyamer-il-9b765ab1.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
